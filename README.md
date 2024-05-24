@@ -10,7 +10,7 @@ The primary objective of our project is to minimize the cost of establishing fac
 •	GeoPandas for geospatial representations.
 •	Matplotlib for data visualization.
 •	PuLP for MIP optimization.
-•	Dataset is available on data.world
+•	Dataset is available on @data.world
 ## FACILITY LOCATION
 The Facility Location Problem (FLP) is a classic optimization problem that determines the best location for a factory or warehouse to be placed based on geographical demands, facility costs, and transportation distances so that the demand at different demand zones is fulfilled by various facility centres with the aim with “to Minimize demand weighted distance between customers and facilities”.
 A p-Median facility problem applies constraints to the limited number of facility centres out of possibles location of facilities, say p and demands of each demand zone is served by only one facility centre. As a result, customers may not be supplied by the most immediate facility, since this facility may not be able to satisfy the given customer demand.
